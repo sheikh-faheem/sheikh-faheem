@@ -1,6 +1,7 @@
 <!-- Top Banner Image -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="Sheikh Faheem Ahmed Banner" width="100%" />
+  <img src="![Image](https://github.com/user-attachments/assets/11023027-9e9b-4294-8c96-f36abac6a1c1)
+" alt="Sheikh Faheem Ahmed Banner" width="100%" />
 </p>
 
 <!-- Intro Heading -->
