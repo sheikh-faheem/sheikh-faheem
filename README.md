@@ -1,6 +1,6 @@
 <!-- Top Banner Image -->
 <p align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/11023027-9e9b-4294-8c96-f36abac6a1c1)
+  <img src="How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png")
 " alt="Sheikh Faheem Ahmed Banner" width="100%" />
 </p>
 
