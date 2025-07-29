@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="mailto:sheikhfaheemahmed1015@gmail.com"><img src="https://img.icons8.com/color/48/gmail--v1.png" width="40" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sheikh-faheem-ahmed-a3a35430a/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn" /></a>
   <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="40" alt="Twitter" /></a>
 </p>
 
